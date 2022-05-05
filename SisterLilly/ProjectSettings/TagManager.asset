@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Star
+  - Bubble
+  - Candy
+  - Spike
+  - HookRange
+  - Character
+  - Manager
+  - Rope
+  - LevelInterface
+  - Mouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2488412039
+    locked: 0
+  - name: Particles
+    uniqueID: 1116601297
+    locked: 0
+  - name: Rope
+    uniqueID: 2176814101
+    locked: 0
+  - name: Hook
+    uniqueID: 499483371
+    locked: 0
+  - name: Character
+    uniqueID: 3311614463
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Components
+    uniqueID: 2618600807
+    locked: 0
+  - name: Foreground
+    uniqueID: 2488738521
+    locked: 0
+  - name: Stars
+    uniqueID: 4175900315
+    locked: 0
